@@ -195,6 +195,8 @@ public class show extends MainActivity implements View.OnClickListener {
             String uID = DatabaseStudent.push().getKey();
             Student student = new Student(uID, Name, Enroll, College, Branch, Sem, Contact,Events1,Events2,Events3,userId);
 
+            //need to optimize this if query
+
             if (Events1.equals("Lathe Master")) { DatabaseStudent.child("Events").child("Lathe Master").child(Enroll).setValue(student);}
             if (Events1.equals("Graphic Mania")) { DatabaseStudent.child("Events").child("Graphic Mania").child(Enroll).setValue(student);}
             if (Events1.equals("CAD War")) { DatabaseStudent.child("Events").child("CAD War").child(Enroll).setValue(student);}
