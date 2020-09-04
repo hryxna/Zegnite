@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Ztest1</string>
+    <string name="ztest1">Ztest1</string>
+
+    <string-array name="Event_Lists">
+        <item>Lathe Master</item>
+        <item>Graphic Mania</item>
+        <item>CAD War</item>
+        <item>Brain Ripple</item>
+        <item>Blueprint</item>
+        <item>Paper Wings</item>
+        <item>Parachute</item>
+        <item>Bill Board</item>
+        <item>Shutter Bug</item>
+        <item>Electroburst</item>
+        <item>Web Warrior</item>
+        <item>DB Mania</item>
+        <item>Clash Code</item>
+        <item>Cryptrics</item>
+        <item>Cyberhunt</item>
+        <item>Techno Zems</item>
+    </string-array>
+
+    <string-array name="Group_Events">
+        <item>Robobling</item>
+        <item>Xtreme Race</item>
+        <item>Robo Sportyf</item>
+        <item>Robozzle</item>
+        <item>Roll The Ball</item>
+        <item>Bridge Mania</item>
+        <item>Bob The Destroyer</item>
+        <item>Bob The Builder</item>
+        <item>Hydro Rocket</item>
+        <item>Electro Capture</item>
+        <item>Wireocity</item>
+        <item>Counter Strike</item>
+        <item>Scary Treasure Hunt</item>
+        <item>Roadies Xtreme</item>
+        <item>Quizmania</item>
+    </string-array>
+
+
+</resources>
